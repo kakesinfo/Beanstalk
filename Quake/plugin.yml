@@ -1,0 +1,5 @@
+main: eu.beanstalk.quake.Quake
+name: Quake
+version: 1.0
+author: KakesInfo
+depend: [API]

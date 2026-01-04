@@ -1,0 +1,4 @@
+main: fr.beanstalk.kingdom.Plugin
+name: Kingdom
+version: 1.0
+author: KakesInfo

@@ -1,0 +1,4 @@
+main: eu.beanstalk.api.API
+name: API
+version: 1.0
+author: KakesInfo

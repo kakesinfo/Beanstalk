@@ -1,0 +1,5 @@
+main: eu.beanstalk.hub.Hub
+name: Hub
+version: 1.0
+author: KakesInfo
+depend: [API]
